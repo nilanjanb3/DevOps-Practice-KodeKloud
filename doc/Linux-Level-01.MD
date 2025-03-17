@@ -1,6 +1,8 @@
+01.
 ```sh
-01. $ echo 'hello world'
+$ echo 'hello world'
 ```
+02.
 ```sh
-02. $ echo 'hello world'
+$ echo 'hello world'
 ```
